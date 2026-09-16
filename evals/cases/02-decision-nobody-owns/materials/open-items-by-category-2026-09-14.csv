@@ -1,0 +1,13 @@
+area,open_items,blocked_by,notes
+CAT-1,1,,temporary hardcoded mapping
+CAT-2,1,,temporary hardcoded mapping
+CAT-3,3,DEC-002,
+CAT-4,3,DEC-002,
+CAT-5,3,DEC-002,
+CAT-6,3,DEC-002;DEP-001,
+CAT-7,3,DEC-002;DEP-001,
+CAT-8,3,DEC-002;DEP-001,
+CAT-9,3,DEC-002;DEP-001,
+routing,4,,
+infra-observability,6,,
+test-automation,5,,

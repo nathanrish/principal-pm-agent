@@ -1,0 +1,13 @@
+# Engine repo must never contain real program data. Workspaces live outside this repo.
+# Root-anchored so eval fixtures under evals/cases/*/fixture-workspace/ are still tracked.
+/workspace/
+/pm-workspace/
+/programs/
+/evidence/
+/reviews/
+
+# Local eval run scratch
+/evals/runs/
+
+.env
+.DS_Store
